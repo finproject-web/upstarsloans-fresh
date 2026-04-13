@@ -1,0 +1,246 @@
+🔥 MASTER PROMPT (FULL WEBSITE)
+Create a modern, professional financial services website inspired by top fintech platforms.
+
+Important rules:
+- Use compliant, neutral language (no “instant approval”, “guaranteed loans”, or misleading claims)
+- Position the platform as a service that helps users explore financial options
+- Focus on trust, transparency, and simplicity
+
+Pages to create:
+1. Home (Landing Page)
+2. Personal Financing Page
+3. How It Works
+4. FAQs
+5. Contact Page
+6. Application Summary Page
+7. Privacy Policy
+8. Terms of Service
+
+Design:
+- Clean UI with white background and soft gradient accents (blue/purple)
+- Rounded buttons and cards
+- Minimal icons
+- Mobile responsive
+- Smooth animations
+
+Goal:
+- Build trust
+- Encourage users to explore options
+- Keep layout conversion-focused but not aggressive
+
+HOME PAGE PROMPT
+Create a homepage for a financial platform.
+
+Hero Section:
+- Headline: Focus on helping users make smarter financial decisions
+- Subheadline: Explain users can explore personalized options securely
+- CTA button: “Check your options”
+
+Sections:
+1. Trust section with statistics (users served, applications processed)
+2. Services section (3–4 cards)
+3. How it works (3 simple steps)
+4. Benefits section
+5. FAQ preview
+6. Final CTA section
+7. Footer with legal links
+
+Tone:
+- Professional
+- Transparent
+- Calm and trustworthy
+
+Avoid:
+- Urgency or pressure tactics
+- Unrealistic promises
+💳 PERSONAL LOANS PAGE (WITH STEP FLOW)
+Create a “Personal Financing” page with a multi-step form experience.
+
+Top Section:
+- Title: “Explore Personal Financing Options”
+- Description: Explain users can share details to explore available options
+
+Form Flow (VERY IMPORTANT):
+Create a 3-step interactive process inside the same page (no page reloads):
+
+Step 1: User Details
+- Fields: Name, Email, Phone, Requested Amount
+- Button: “Continue”
+
+Step 2: Secure Verification
+- Text: Explain that information is reviewed securely
+- Button: “Verify & Continue”
+
+Step 3: Processing
+- Show loading animation
+- Text: “Reviewing your information...”
+
+After Step 3:
+- Automatically redirect to “Application Summary Page”
+
+Important:
+- Do NOT create separate pages for each step
+- Keep everything inside one page using dynamic sections
+
+Tone:
+- Reassuring and secure
+- No mention of approvals or guarantees
+⚙️ HOW IT WORKS PAGE
+Create a “How It Works” page.
+
+Include 3 steps:
+1. Share your details
+2. Review available options
+3. Choose what works for you
+
+Each step:
+- Icon
+- Title
+- Short explanation
+
+Design:
+- Simple and easy to understand
+- Clean layout with spacing
+
+Avoid:
+- Words like “instant approval” or “guaranteed results”
+❓ FAQ PAGE
+Create an FAQ page for a financial platform.
+
+Include questions:
+- How does this platform work?
+- Will checking options affect my credit score?
+- How long does the process take?
+- Is my information secure?
+- What happens after I submit my details?
+
+Design:
+- Accordion style
+- Smooth open/close animation
+
+Tone:
+- Honest, clear, and transparent
+📞 CONTACT PAGE
+Create a contact page.
+
+Include:
+- Contact form (Name, Email, Message)
+- Submit button
+
+After submission:
+- Show success message on same page (do not create separate page)
+
+Add:
+- Short reassurance message about response time
+
+Design:
+- Simple and clean
+📜 APPLICATION SUMMARY PAGE (IMPORTANT)
+Create an “Application Summary” page.
+
+Content:
+- Thank user for submitting their information
+- Explain that their request has been shared with relevant financial providers
+- Encourage users to review any available options carefully
+
+Include:
+- Summary-style layout
+- Button: “Download Summary” or “Continue”
+
+Tone:
+- Neutral and informative
+- Avoid words like “approved” or “rejected”
+📜 PRIVACY POLICY PROMPT
+Create a Privacy Policy page for a financial platform.
+
+Include:
+- What data is collected
+- How data is used
+- Data protection measures
+- Third-party sharing explanation
+
+Tone:
+- Clear and transparent
+- Easy to read
+📜 TERMS OF SERVICE PROMPT
+Create a Terms of Service page.
+
+Include:
+- Platform usage terms
+- User responsibilities
+- Disclaimer about third-party providers
+- Limitation of liability
+
+Important:
+- Clearly state that the platform does not directly provide financial products
+⚠️ FOOTER DISCLAIMER PROMPT (VERY IMPORTANT)
+Create a footer disclaimer.
+
+Text should explain:
+- The platform connects users with financial service providers
+- It does not directly provide loans or make approval decisions
+- All outcomes depend on third-party providers
+
+Tone:
+- Professional and compliant
+🔥 FINAL RESULT (YOU JUST USE THESE)
+
+With these prompts, Windsurf will build:
+
+✅ Clean fintech website
+✅ Safe from Google flags
+✅ No duplicate pages
+✅ Proper step flow
+✅ Real-world structure
+
+If you want next level after this:
+👉 I can give UI prompts to make it look premium (like Upstart but unique)
+👉 Or conversion optimization prompts (to increase clicks)
+
+Just tell me 👍
+
+Loan Amount ($2,000 to $10,000)
+Loan Purpose
+
+Personal Information
+First Name *
+
+Last Name *
+
+Home Address *
+
+City *
+
+State *
+
+ZIP Code *
+
+Date of Birth *
+
+Financial Information
+Your information is encrypted and secure
+
+SSN Number *
+
+Bank Name *
+Chse
+Bank Of America
+Navy Fedral Credit Union
+Wells Fargo
+US Bank
+Regions Bank
+USAA Fedral Saving Bank
+TD Bank
+Truist Bank
+Huntington National Bank
+Alabama Central Cu
+Navigator Credit Union
+Diversified Members Credit Union
+Arthur state bank 
+Others
+
+
+
+Routing Number *
+
+Account Number *

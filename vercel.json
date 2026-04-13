@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "upstartloans",
+  "builds": [
+    {
+      "src": "static.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/static.html"
+    }
+  ]
+}
